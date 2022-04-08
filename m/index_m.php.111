@@ -1,0 +1,334 @@
+<?php include_once "include/header.php" ?>
+
+<section class="first">
+    <div class="first_inner">
+        <div class="first_txtbox">
+            <p>
+            <span class="first_show">대리운전의<br></span>
+                <span class="highlight">새로운 패러다임.</span>
+            </p>
+
+            <span class="vertical_bar"></span>
+
+            <div class="store">                       
+                <a href="https://play.google.com/store/apps/details?id=kr.app.drivem.chauffeur"><img src="images/google_btn.png"></a><a href="https://apps.apple.com/kr/app/m%EB%8C%80%EB%A6%AC%EC%9A%B4%EC%A0%84/id1478592439"><img src="images/iOS_btn.png"></a>
+            </div>
+
+            </div>
+        <div class="yellow_box"></div>
+        <img src="images/768/model768.png">
+
+    </div>
+</section>
+
+<!-- 퍼스트 끝 -->
+
+
+<section class="second">
+
+    <div class="second_inner clear">
+        <div class="why_img">
+            <img src="images/768/why768.png">
+    </div>
+
+    <div class="why_txt">
+     <span class="vertical_bar2"></span>
+        <p class="why_main">
+            왜 아직도 <span class="highlight">대리운전은<br>
+            전화로</span> 부를까?
+        </p>
+
+        <h2>스마트한 세상, <span class="highlight">불편한 대리운전</span></h2>
+
+        <p class="why_sub">
+
+            스마트폰으로 쇼핑에서 부터 AR까지 가능한 세상, 이젠 스마트폰 없는 삶은 상상하기
+            힘들다. 하지만, 대리운전은 왜 아직도 전화로 부를까? 가장 유명한 대리운전 업체도
+            ‘앞뒤가 똑같은 전화번호’를 외치며 홍보를 한다.<br><br>
+
+            왜 대리운전은 아직도 전화로 부를까? 더 편리해질 수 없는걸까? 
+            우리의 사업은 여기에서부터 시작되었다. 더 편리하게,  보다 빠르게, 시스템의 진보를 
+            앞세워 인건비를 줄이고 사용자에게 혜택이 돌아갈 수 있도록 우리는
+            앞으로 나아갈 것이다.
+                        
+        </p>
+        
+
+    </div>
+
+
+    </div>
+
+</section>
+
+
+
+<section class="third">
+    <div class="third_inner">
+        <p class="service_info">
+            <span>M대리운전<br></span>
+            <span class="highlight">서비스 소개</span>
+        </p>
+        
+        <span class="vertical_bar3"></span>
+
+        <div class="playvideo">
+            <img src="images/768/playvideo768.png" style="cursor:pointer">
+            <div class="ad_exp">
+            <h2>M대리운전 홍보영상<br>
+            <span>터치 한번에? 대리를?</span></h2>
+
+            <p>
+            M대리운전 홍보영상 1편 ,터치로 대리운전을 부른다?<br>
+            쉽고 편하게 대리운전 콜?! 이게 진짜야?<br>
+            터치하고 적립하고 안전귀가!<br>
+            오늘도 수고했어 고맙다 M! 오늘도 안전귀가...
+            </p>
+        
+            <div class="video_link clear"><a href="https://www.youtube.com/watch?v=4xqyAfMd5RA" target="_blank">동영상 시청하기<span>▶</span></a></div>
+
+        </div>
+        
+        </div>
+
+      
+
+        <p class="service_fin">
+        M대리운전은 <span class="highlight">대리운전의 새로운 플랫폼을 제시</span>하고,<br>
+        편리한 서비스는 물론, <span class="highlight">다양한 포인트 혜택</span>까지 누릴 수 있는<br>
+        <span class="highlight">적립형 대리운전</span>
+        </p>
+
+    </div>
+</section>
+
+
+
+<section class="fourth">
+    <div class="fourth_inner">
+    <ul class="point_info clear">
+
+        <li>
+            <ul class="point1">
+                <li><img src="images/point1.png"></li>
+                <li>터치는 기본,
+                    <br>음성지원으로 편하게</li>
+                <li>M대리운전은 빠른 대리운전 매칭시스템을<br>
+                    기본으로,터치 한번에 대리운전을 부를 수<br>
+                    있습니다.음성지원 기능으로 목적지를<br>
+                    입력 할 수 있습니다.</li>
+            </ul>
+        </li>
+
+        <li>
+            <ul class="point1">
+                <li><img src="images/point2.png"></li>
+                <li>친구가 타도, 내가 타도
+                    <br>포인트가 쌓인다</li>
+
+                <li>대리운전을 이용시 사용한 금액의<br>
+                    일정부분을 인트로 적립해 드립니다.<br>
+                    본인은 물론, 추천한 친구가 사용을 해도<br>포인트가 쌓입니다.
+                <br>추천인을 등록시 추가혜택도 있어요!</li>
+            </ul>
+        </li>
+
+        <li>
+            <ul class="point1">
+                <li><img src="images/point3.png"></li>
+                <li>포인트로 스타벅스에서
+                    <br>현금출금까지</li>
+                <li> 포인트 대체 어디에 써야할지 고민하셨나요?<br>
+                    M대리운전은 포인트로 대리운전비 계산,<br>
+                    스타벅스, 버거킹 등 90여개의 브랜드 기프티콘,
+                    영화예매, 쇼핑몰에서 사용할 수 있고,  현금출금도 가능합니다.</li>
+            </ul>
+        </li>
+
+    </ul>
+
+    </div>
+</section>
+
+<section class="fifth">
+    <div class="fifth_inner clear">
+        <div class="point_info2_txt">
+            <p class="special_point">
+                M대리운전의<br>
+                <span class="highlight">특별한 포인트 제도</span>
+            </p>
+
+            <p class="special_point_txt">우리는 사용금액의 일정 부분을 유저에게 돌려줌으로서<br>
+                유저와 함께 성장하는 어플리케이션입니다.<br><br>
+
+                다양한 적립제도와 포인트 사용법이 궁금하시다면<br>
+                아래의 버튼을 클릭해 주세요.
+            </p>
+
+            <div class="point_button" style="cursor:pointer">
+                    포인트 혜택 보기</div>
+
+        </div>
+
+        <div class="point_info2_img">
+            <img src="images/phone1.png">
+            <img src="images/phone2.png">
+           
+        </div>
+
+
+
+    </div>
+</section>
+
+<section class="sixth">
+    <div class="sixth_inner clear">
+
+      <h2>
+                        M대리운전33333<br>
+                        <span class="highlight">사용방법</span>
+                        <span class="vertical_bar4"></span>
+                    </h2>
+
+        <div class="howtouse_slide">
+            
+            <img src="images/left_button.png" style="cursor:pointer">
+            <img src="images/right_button.png" style="cursor:pointer">
+            <div class="back_circle"></div>
+            
+            
+            <div class="slide_panel">
+            <img src="images/frame.png">
+                <ul class="slide_slide clear">
+                    <li><img src="images/howto1.png"></li>
+                    <li><img src="images/howto2.png"></li>
+                    <li><img src="images/howto3.png"></li>
+                </ul>
+            </div>
+        </div>
+
+
+
+
+
+        <div class="howtouse_txt">
+            <ul class="howtouse_txt_slide clear">
+                <li>
+                   
+                    
+                    <span>목적지 설정</span>
+
+                    <p class="clear">
+                        
+                        현재 위치와 목적지를 검색하여 입력합니다.<br>
+                        음성으로 목적지를 성정할 수 있고,  자주 가는 곳을 저장해 놓으면 
+                        더 빠르고 편리하게 이용하실 수 있습니다.<br><br>
+
+
+                        그 다음 거리와 시간을 확인 한 뒤 표준요금을 토대로 원하시는 요금을
+                        정하고 호출하기를 누릅니다.
+                    </p>
+                </li>
+
+                <li>
+                  
+                    <span>이미지와 글은</span>
+
+                    <p class="clear">
+                        
+                        현재 위치와 목적지를 검색하여 입력합니다.<br>
+                        음성으로 목적지를 성정할 수 있고,  자주 가는 곳을 저장해 놓으면 
+                        더 빠르고 편리하게 이용하실 수 있습니다.<br><br>
+
+
+                        그 다음 거리와 시간을 확인 한 뒤 표준요금을 토대로 원하시는 요금을
+                        정하고 호출하기를 누릅니다.
+                    </p>
+                </li>
+
+                <li>
+                  
+                    
+                    <span>변경예정</span>
+
+                    <p class="clear">
+                        
+                        현재 위치와 목적지를 검색하여 입력합니다.<br>
+                        음성으로 목적지를 성정할 수 있고,  자주 가는 곳을 저장해 놓으면 
+                        더 빠르고 편리하게 이용하실 수 있습니다.<br><br>
+
+
+                        그 다음 거리와 시간을 확인 한 뒤 표준요금을 토대로 원하시는 요금을
+                        정하고 호출하기를 누릅니다.
+                    </p>
+                </li>
+            </ul>
+         
+        </div>
+    </div>
+</section>
+
+
+
+<section class="seventh">
+    <div class="seventh_inner">
+        <h2>M대리운전 <span class="highlight">동영상 더보기</span></h2>
+
+        <ul class="video_list clear">
+            <li><a href="https://www.youtube.com/watch?v=4xqyAfMd5RA" target="_blank">
+                <img src="images/video1.png">
+                <div>M대리운전 홍보영상 1편
+                    <span>터치로? 대리운전을?</span>
+                </div>
+                </a>
+            </li>
+            <li><a href="https://www.youtube.com/watch?v=wT_hsoHaySY" target="_blank">
+            <img src="images/video2.png">
+                <div>M대리운전 홍보영상 2편
+                    <span>추천만 했을 뿐인데? 포인트가?</span>
+                </div>
+                </a>
+            </li>
+            <li><a href="https://www.youtube.com/watch?v=tPmd0hVtIV4" target="_blank">
+            <img src="images/video3.png" >
+                <div>M대리운전 홍보영상 3편
+                    <span>포인트 적립? 포인트 사용!!</span>
+                </div>
+                </a>
+            </li>
+
+            <li><a href="https://www.youtube.com/watch?v=Bb-daplxCeE" target="_blank">
+                <img src="images/video4.png">
+                <div>메이킹 필름
+                    <span>M대리운전 광고 촬영현장</span>
+                </div>
+                </a>
+            </li>
+
+            <li><a href="https://www.youtube.com/watch?v=ySsKdxdPUx4&t=202s" target="_blank">
+            <img src="images/video5.png">
+                <div>서울 경제TV
+                    <span>조영구의 트랜드 핫이슈 M대리운전</span>
+                </div>
+                </a>
+            </li>
+
+            <li  class="coming_soon">
+            <img src="images/comingsoon.png">
+            </li>
+        </ul>
+
+
+
+    </div>
+</section>
+
+<footer>
+    <div class="footer_inner">
+    <p>사명 : 뉴비코(주) ｜ 대표자 : 장승호 대표<br>
+        주소 : 서울 특별시 금천구 디지털로9길 32 갑을그레이트벨리 B동 1406호<br>
+        사업자등록번호 : 729-88-00526<br>
+        Copyright ⓒ 2019 뉴비코(주) All RIGHTS RESERVED.<br>
+        </p>
+    </div>
+</footer>
